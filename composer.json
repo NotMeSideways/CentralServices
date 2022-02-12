@@ -1,0 +1,15 @@
+{
+    "name": "notmesideways/centralservices",
+    "description": "PHP Flamework",
+    "type": "library",
+    "require-dev": {
+        "chevere/xr": "^0.1.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Notmesideways\\Centralservices\\": "src/"
+        }
+    },
+    "require": {}
+}
